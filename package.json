@@ -1,6 +1,6 @@
 {
   "name": "nuxt-gre-pixel-module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A nuxt module for integrating event pixel for Vertex AI Search for retail",
   "repository": "williamchong/nuxt-gre-pixel-module",
   "license": "MIT",
