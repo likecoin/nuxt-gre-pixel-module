@@ -8,6 +8,8 @@
 
 > A nuxt module for integrating event pixel for Vertex AI Search for retail
 
+Please refer to the [official documentation](https://cloud.google.com/generative-ai-app-builder/docs/record-user-events#record-with-javascript-pixel) for more information on how to use the retail event pixel.
+
 [📖 **Release Notes**](./CHANGELOG.md)
 
 ## Setup
@@ -27,10 +29,19 @@ yarn add nuxt-gre-pixel-module # or npm install nuxt-gre-pixel-module
     'nuxt-gre-pixel-module',
 
     // With options
-    ['nuxt-gre-pixel-module', { /* module options */ }]
+    ['nuxt-gre-pixel-module', {
+      /* module options */
+      apiKey: 'your-google-cloud-api-credentials-key',
+      projectId: 'your-google-cloud-project-id',
+      locationId: 'global',
+      catalogId: 'default_catalog',
+      debug: false,
+    }]
   ]
 }
 ```
+
+Please refer to the [official documentation](https://cloud.google.com/generative-ai-app-builder/docs/record-user-events#create-key) on how to obtain the `apiKey` for retail event pixel.
 
 ## Development
 
