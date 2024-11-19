@@ -1,10 +1,10 @@
 {
-  "name": "nuxt-gre-pixel-module",
+  "name": "@likecoin/nuxt-gre-pixel-module",
   "version": "0.0.1",
   "description": "A nuxt module for integrating event pixel for Vertex AI Search for retail",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamchong/nuxt-gre-pixel-module.git"
+    "url": "git+https://github.com/likecoin/nuxt-gre-pixel-module.git"
   },
   "license": "MIT",
   "contributors": [

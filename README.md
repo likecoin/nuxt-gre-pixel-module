@@ -89,13 +89,13 @@ Copyright (c) William Chong <me@williamchong.cloud>
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-gre-pixel-module/latest.svg
-[npm-version-href]: https://npmjs.com/package/nuxt-gre-pixel-module
-[npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-gre-pixel-module.svg
-[npm-downloads-href]: https://npmjs.com/package/nuxt-gre-pixel-module
-[github-actions-ci-src]: https://github.com/williamchong/nuxt-gre-pixel-module/workflows/ci/badge.svg
-[github-actions-ci-href]: https://github.com/williamchong/nuxt-gre-pixel-module/actions?query=workflow%3Aci
-[codecov-src]: https://img.shields.io/codecov/c/github/williamchong/nuxt-gre-pixel-module.svg
-[codecov-href]: https://codecov.io/gh/williamchong/nuxt-gre-pixel-module
-[license-src]: https://img.shields.io/npm/l/nuxt-gre-pixel-module.svg
-[license-href]: https://npmjs.com/package/nuxt-gre-pixel-module
+[npm-version-src]: https://img.shields.io/npm/v/@likecoin/nuxt-gre-pixel-module/latest.svg
+[npm-version-href]: https://npmjs.com/package/@likecoin/nuxt-gre-pixel-module
+[npm-downloads-src]: https://img.shields.io/npm/dt/@likecoin/nuxt-gre-pixel-module.svg
+[npm-downloads-href]: https://npmjs.com/package/@likecoin/nuxt-gre-pixel-module
+[github-actions-ci-src]: https://github.com/likecoin/nuxt-gre-pixel-module/workflows/ci/badge.svg
+[github-actions-ci-href]: https://github.com/likecoin/nuxt-gre-pixel-module/actions?query=workflow%3Aci
+[codecov-src]: https://img.shields.io/codecov/c/github/likecoin/nuxt-gre-pixel-module.svg
+[codecov-href]: https://codecov.io/gh/likecoin/nuxt-gre-pixel-module
+[license-src]: https://img.shields.io/npm/l/@likecoin/nuxt-gre-pixel-module.svg
+[license-href]: https://npmjs.com/package/@likecoin/nuxt-gre-pixel-module
